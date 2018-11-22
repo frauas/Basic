@@ -8,6 +8,7 @@ public class Helloworld {
 		        "\u2514\u2500\u2500\u2500\u2500\u2500\u2518" };
 		    for (String s : data) {
 		      System.out.println(s);
+		      System.out.println("End");
 		    }
 		    
 		  }
